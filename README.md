@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Jorge
 
-I’m studying Software Engineering. My learning interest includes Data Science, with all its possibilities.
+Software Engineering undergraduate student. I am interested in Data Science, with all its possibilities.
 
-I am usually studying some scripts in Python, Java, R, or either, JS.
+Here you will find some reposotories with scripts I am learning now > Python, Java, R, or either, JS.
 
 📫 Contact: jorge.fsa23@gmail.com
